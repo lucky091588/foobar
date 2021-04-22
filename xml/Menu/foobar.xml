@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/foobar/mypage</path>
+    <page_callback>CRM_Foobar_Page_MyPage</page_callback>
+    <title>MyPage</title>
+    <access_arguments>access foobar pages</access_arguments>
+  </item>
+</menu>
